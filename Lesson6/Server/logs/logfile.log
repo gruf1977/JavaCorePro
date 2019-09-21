@@ -1,0 +1,23 @@
+INFO  2019-09-08 19:57:43 [main] StartServer (StartServer.java:8) - Info
+WARN  2019-09-08 19:57:43 [main] StartServer (StartServer.java:9) - Warn
+ERROR 2019-09-08 19:57:43 [main] StartServer (StartServer.java:10) - Error
+FATAL 2019-09-08 19:57:43 [main] StartServer (StartServer.java:11) - Fatal
+INFO  2019-09-08 19:57:43 [main] StartServer (StartServer.java:12) - String: Hello, World.
+INFO  2019-09-08 20:09:18 [main] StartServer (StartServer.java:8) - Info
+WARN  2019-09-08 20:09:18 [main] StartServer (StartServer.java:9) - Warn
+ERROR 2019-09-08 20:09:18 [main] StartServer (StartServer.java:10) - Error
+FATAL 2019-09-08 20:09:18 [main] StartServer (StartServer.java:11) - Fatal
+INFO  2019-09-08 20:09:18 [main] StartServer (StartServer.java:12) - String: Hello, World.
+INFO  2019-09-08 20:09:18 [main] Server.Server (Server.java:45) - Сервер запущен!
+WARN  2019-09-08 20:10:57 [pool-2-thread-1] Server.ClientHandler$1 (ClientHandler.java:143) - Нет связи с клиентом
+INFO  2019-09-08 20:10:57 [pool-2-thread-1] Server.Server (Server.java:29) - Клиент удален
+WARN  2019-09-08 20:11:18 [pool-2-thread-2] Server.ClientHandler$1 (ClientHandler.java:143) - Нет связи с клиентом
+INFO  2019-09-08 20:11:18 [pool-2-thread-2] Server.Server (Server.java:29) - Клиент удален
+WARN  2019-09-08 20:12:09 [pool-2-thread-3] Server.ClientHandler$1 (ClientHandler.java:143) - Нет связи с клиентом
+INFO  2019-09-08 20:12:09 [pool-2-thread-3] Server.Server (Server.java:29) - Клиент удален
+INFO  2019-09-08 20:26:18 [main] StartServer (StartServer.java:8) - Info
+WARN  2019-09-08 20:26:18 [main] StartServer (StartServer.java:9) - Warn
+ERROR 2019-09-08 20:26:18 [main] StartServer (StartServer.java:10) - Error
+FATAL 2019-09-08 20:26:18 [main] StartServer (StartServer.java:11) - Fatal
+INFO  2019-09-08 20:26:18 [main] StartServer (StartServer.java:12) - String: Hello, World.
+INFO  2019-09-08 20:26:19 [main] Server.Server (Server.java:45) - Сервер запущен!
